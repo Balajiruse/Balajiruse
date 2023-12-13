@@ -1,4 +1,4 @@
-### Hello :) 👋
+### Hello :) 👋 
 
 <h1 align="center">Hi <img width="60" height="50" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, I'm Balaji</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3> <br><br><br>
