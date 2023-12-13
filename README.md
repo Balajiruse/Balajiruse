@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning MERN <br><br>  🛠️ Proficient in HTML , CSS, JavaScript, And excitedly exploring modern tech like React, Express, and MongoDB, I'm Committed To Continuous Learning And growth. <br><br> 💬 Ask me about Reactjs, Redux, Nodejs, ExpressJS, HTML, CSS, JS, Bootstrap  <br><br>  👨‍💻 All of my projects are available at my Portfolio  <br><br>  📫 Reach out to me at  Balaji.ruse@gmail.com<br><br>📄 Know About My Experiences-My Resume  <br><br>  ⚡ Fun fact "The First Computer 'Bug' was an actual Real-Life Bug🤔🖥".. <br><br><br><br>Keep Coding And Stay Curious !...<br><br>
+<br>🌱 I’m currently learning MERN <br><br>  🛠️ Proficient in HTML , CSS, JavaScript, And excitedly exploring modern tech like React, Express, and MongoDB, I'm Committed To Continuous Learning And growth. <br><br> 💬 Ask me about Reactjs, Redux, Nodejs, ExpressJS, HTML, CSS, JS, Bootstrap  <br><br>  👨‍💻 All of my projects are available at my Portfolio  <br><br>  📫 Reach out to me at  Balaji.ruse@gmail.com<br><br>📄 Know About My Experiences-My Resume  <br><br>  ⚡ Fun fact "The First Computer 'Bug' was an actual Real-Life Bug🤔🖥".. <br><br><br><br>Keep Coding And Stay Curious !...<br><br>
 
 
 
