@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h1 align="center">Hi <img width="60" height="50" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, I'm Radhika Suresh</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning MERN<br>🛠️ Proficient in HTML , CSS, JavaScript, And excitedly exploring modern tech like React, Express, and MongoDB, I'm Committed To Continuous Learning And growth.<br>💬 Ask me about Reactjs, Redux, Nodejs, ExpressJS, HTML, CSS, JS, Bootstrap<br>👨‍💻 All of my projects are available at my Portfolio<br>📫 Reach out to me at  Balaji.ruse@gmail.com<br>📄 Know About My Experiences-My Resume<br>⚡ Fun fact "The First Computer 'Bug' was an actual Real-Life Bug🤔🖥"..<br><br><br>Keep Coding And Stay Curious !...
